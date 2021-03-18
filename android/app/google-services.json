@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65297017749",
+    "project_id": "agendatest-1de66",
+    "storage_bucket": "agendatest-1de66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65297017749:android:d87ded82a81609c683e49c",
+        "android_client_info": {
+          "package_name": "dev.jfk.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65297017749-mgbnvopn8jvhcb92evcf1dql805t0l7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTwPJUIxuSrYAnq4gEeKLK--qoTtH5gf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65297017749-mgbnvopn8jvhcb92evcf1dql805t0l7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
